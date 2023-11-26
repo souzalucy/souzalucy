@@ -1,5 +1,5 @@
 ### Olá 👋
-##Me chamo Lucy Gomes de Souza!
+Me chamo Lucy Gomes de Souza!
 
 🔭 Sou uma mulher trans não binária apaixonada por programação e dados.
 
