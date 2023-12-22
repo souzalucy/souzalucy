@@ -1,7 +1,7 @@
 ### Olá 👋
 Me chamo Lucy Gomes de Souza!
 
-🔭 Sou uma mulher trans não binária apaixonada por programação e dados.
+🔭 Sou uma mulher trans não binária apaixonada por inteligência artificial.
 
 💬 Estou me especializando na linguagem pyton de forma a poder usá-la para análise de dados e machine learning.
 
