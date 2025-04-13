@@ -1,7 +1,7 @@
 ### Olá 👋
 Me chamo Lucy Gomes de Souza!
 
-Sou uma mulher trans não binária com sólida formação acadêmica e técnica, voltada para ciência de dados e inteligência artificial. Graduada em Ciências Biológicas pela Universidade Federal de Uberlândia, com mestrado e doutorado na área (Zoologia/Paleontologia) e mais de 20 publicações, incluindo estudos sobre diversidade e inclusão acadêmica. Especialista em Bioinformática (Unyleya) e Data Science (CoderHouse). Pós-graduada em Inteligência Artificial e Aprendizado de Máquina (PUC-MG) e Ciência de Dados (Descomplica).
+Sou uma mulher trans não binária com sólida formação acadêmica e técnica, voltada para ciência de dados e inteligência artificial. Graduada em Ciências Biológicas pela Universidade Federal de Uberlândia, com mestrado e doutorado na área (Zoologia/Paleontologia) pelo Museu Nacional/Universidade Federal do Rio de Janeiro. Tenho mais de 20 publicações, incluindo estudos sobre diversidade e inclusão acadêmica. Especialista em Bioinformática (Unyleya) e Data Science (CoderHouse). Pós-graduada em Inteligência Artificial e Aprendizado de Máquina (PUC-MG) e Ciência de Dados (Descomplica).
 
 Tenho experiência em pesquisa e análise de dados, com foco em inteligência artificial, aprendizado de máquina e deep learning, utilizando ferramentas como Scikit-learn, Keras e PyTorch. Sou proficiente em Python (incluindo suas principais bibliotecas) e SQL (SQLite3). Também tenho conhecimentos em metodologias ágeis (Scrum, Agile, Waterfall) e experiência adicional em desenvolvimento front-end.
 
