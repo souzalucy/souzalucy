@@ -1,3 +1,5 @@
+![MLOps life cycle](LUCY_2.png)
+
 ### Olá 👋
 Me chamo Lucy Gomes de Souza!
 
